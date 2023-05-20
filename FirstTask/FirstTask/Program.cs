@@ -23,7 +23,7 @@ namespace FirstTask
             producerThread.Join();
             consumerThread.Join();
 
-            Console.WriteLine("Головний потік завершив роботу.");
+            Console.WriteLine("Щоб вийти з програми, нажміть ENTER!");
             Console.ReadLine();
         }
 
