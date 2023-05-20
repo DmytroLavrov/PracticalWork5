@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\bin\Debug\net6.0\ThirdTask.exe
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\bin\Debug\net6.0\ThirdTask.deps.json
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\bin\Debug\net6.0\ThirdTask.runtimeconfig.json
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\bin\Debug\net6.0\ThirdTask.dll
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\bin\Debug\net6.0\ThirdTask.pdb
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.AssemblyInfo.cs
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.dll
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\obj\Debug\net6.0\refint\ThirdTask.dll
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.pdb
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.genruntimeconfig.cache
+C:\Users\ACER\source\repos\LabWork5\ThirdTask\ThirdTask\ThirdTask\obj\Debug\net6.0\ref\ThirdTask.dll
