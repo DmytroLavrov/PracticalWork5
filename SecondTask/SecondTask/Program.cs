@@ -18,7 +18,6 @@ namespace SecondTask
         static void Main()
         {
             Console.OutputEncoding = System.Text.Encoding.Default;
-            // Створення та запуск потоків світлофорів
             Thread trafficLight1Thread = new Thread(TrafficLight1);
             Thread trafficLight2Thread = new Thread(TrafficLight2);
             Thread trafficLight3Thread = new Thread(TrafficLight3);
@@ -28,16 +27,14 @@ namespace SecondTask
             trafficLight3Thread.Start();
             trafficLight4Thread.Start();
 
-            // Очікування натискання клавіші Enter для завершення програми
             Console.ReadLine();
 
-            // Зупинка потоків світлофорів
             trafficLight1Thread.Abort();
             trafficLight2Thread.Abort();
             trafficLight3Thread.Abort();
             trafficLight4Thread.Abort();
 
-            Console.WriteLine("Головний потік завершив роботу.");
+            Console.WriteLine("Щоб вийти з програми, нажміть ENTER!");
             Console.ReadLine();
         }
 
