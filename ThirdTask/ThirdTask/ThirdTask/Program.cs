@@ -22,7 +22,7 @@ namespace ThirdTask
             Console.WriteLine("Масив після сортування:");
             PrintArray(array);
 
-            Console.WriteLine("Головний потік завершив роботу.");
+            Console.WriteLine("Щоб вийти з програми, нажміть ENTER!");
             Console.ReadLine();
         }
 
