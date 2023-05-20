@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\bin\Debug\net6.0\FirstTask.exe
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\bin\Debug\net6.0\FirstTask.deps.json
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\bin\Debug\net6.0\FirstTask.runtimeconfig.json
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\bin\Debug\net6.0\FirstTask.dll
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\bin\Debug\net6.0\FirstTask.pdb
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\obj\Debug\net6.0\FirstTask.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\obj\Debug\net6.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\obj\Debug\net6.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\obj\Debug\net6.0\FirstTask.AssemblyInfo.cs
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\obj\Debug\net6.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\obj\Debug\net6.0\FirstTask.dll
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\obj\Debug\net6.0\refint\FirstTask.dll
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\obj\Debug\net6.0\FirstTask.pdb
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\obj\Debug\net6.0\FirstTask.genruntimeconfig.cache
+C:\Users\ACER\source\repos\LabWork5\FirstTask\FirstTask\FirstTask\obj\Debug\net6.0\ref\FirstTask.dll
