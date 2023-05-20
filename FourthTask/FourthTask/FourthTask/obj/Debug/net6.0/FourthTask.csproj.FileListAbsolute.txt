@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\bin\Debug\net6.0\FourthTask.exe
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\bin\Debug\net6.0\FourthTask.deps.json
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\bin\Debug\net6.0\FourthTask.runtimeconfig.json
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\bin\Debug\net6.0\FourthTask.dll
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\bin\Debug\net6.0\FourthTask.pdb
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\obj\Debug\net6.0\FourthTask.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\obj\Debug\net6.0\FourthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\obj\Debug\net6.0\FourthTask.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\obj\Debug\net6.0\FourthTask.AssemblyInfo.cs
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\obj\Debug\net6.0\FourthTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\obj\Debug\net6.0\FourthTask.dll
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\obj\Debug\net6.0\refint\FourthTask.dll
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\obj\Debug\net6.0\FourthTask.pdb
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\obj\Debug\net6.0\FourthTask.genruntimeconfig.cache
+C:\Users\ACER\source\repos\LabWork5\FourthTask\FourthTask\FourthTask\obj\Debug\net6.0\ref\FourthTask.dll
